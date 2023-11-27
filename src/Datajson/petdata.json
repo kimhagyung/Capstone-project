@@ -1,0 +1,141 @@
+[
+    {
+        "questions": "1",
+        "options":
+        [
+            {
+                "beforeselec":"a",
+                "quiz":[
+                    {
+                        "selectCriteria":"소품 여부를 선택해주세요",
+                        "select":
+                        [
+                            {
+                                "type":"a",
+                                "name":"#소품 유",
+                                "img":"4.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#소품 무",
+                                "img":"3.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            } ,
+
+            {
+                "beforeselec":"b", 
+                "quiz":[
+                    {
+                    "selectCriteria":"원하시는 환경을 선택해주세요",
+                    "select": 
+                    [
+                        {
+                            "type":"a",
+                            "name":"#산",
+                            "img":"10.jpg"
+                        },
+                        {
+                            "type":"b",
+                            "name":"#바다",
+                            "img":"9.jpg"
+                        }
+                    ] 
+                } 
+                ]
+            } 
+        ]
+            
+    },
+
+    {
+        "questions": "2",
+        "options": [
+            {
+                "beforeselec":"aa",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하시는 배경을 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"5.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#화이트",
+                                "img":"6.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            },
+
+            {
+                "beforeselec":"ab", 
+                "quiz":[
+                    { 
+                        "selectCriteria":"원하시는 배경을 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"8.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#화이트",
+                                "img":"7.png"
+                            }
+                        ] 
+                    }
+                ]    
+            } ,
+            {
+                "beforeselec":"ba", 
+                "quiz":[
+                    {
+                        "selectCriteria":"원하시는 포즈를 선택해주세요 ",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#정적인",
+                                "img":"11.png"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#활동적인",
+                                "img":"12.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            },
+            {
+                "beforeselec":"bb",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하시는 포즈를 선택해주세요 ",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#정적인",
+                                "img":"13.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#활동적인",
+                                "img":"14.jpg"
+                            }
+                        ] 
+                    }
+                ] 
+            }
+        ]
+    }
+   
+
+]

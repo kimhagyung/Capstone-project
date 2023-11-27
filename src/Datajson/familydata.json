@@ -1,0 +1,186 @@
+[
+    {
+        "questions": "1",
+        "options":
+        [
+            {
+                "beforeselec":"a",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 장소를 선택해 주세요",
+                        "select":
+                        [
+                            {
+                                "type":"a",
+                                "name":"#실내",
+                                "img":"aa.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#야외",
+                                "img":"ab.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            } ,
+            {
+                "beforeselec":"b", 
+                "quiz":[
+                    {
+                    "selectCriteria":"원하는 색감을 선택해 주세요",
+                    "select": [
+                        {
+                            "type":"a",
+                            "name":"#컬러",
+                            "img":"ba.PNG"
+                        },
+                        {
+                            "type":"b",
+                            "name":"#흑백",
+                            "img":"bb.jpg"
+                        }
+                    ] 
+                } 
+                ]
+            } 
+        ]
+            
+    },
+
+    
+    {
+        "questions": "2",
+        "options": [
+            {
+                "beforeselec":"aa",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 색감을 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#칼라",
+                                "img":"aaa.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#흑백",
+                                "img":"aab.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            },
+            {
+                "beforeselec":"ab", 
+                "quiz":[
+                    { 
+                        "selectCriteria":"원하는 분위기를 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#밝은",
+                                "img":"aba.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#차분한",
+                                "img":"abb.PNG"
+                            }
+                        ] 
+                    }
+                ]    
+            } ,
+            {
+                "beforeselec":"ba", 
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 장소를 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#실내",
+                                "img":"baa.PNG"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#야외",
+                                "img":"bab.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "questions": "3",
+        "options": [
+            {
+                "beforeselec":"aaa",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 분위기를 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#밝은",
+                                "img":"aaaa.PNG"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#차분한",
+                                "img":"aaab.jpg"
+                            }
+                        ]
+                    }
+                ]
+            } ,
+                 {
+                "beforeselec":"baa",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 분위기를 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#차분",
+                                "img":"baaa.PNG"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#화사",
+                                "img":"baab.PNG"
+                            }
+                        ]  
+                    }
+                ]
+
+            },            {
+                "beforeselec":"bab",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 분위기를 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#밝은",
+                                "img":"baba.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#차분",
+                                "img":"babb.jpg"
+                            }
+                        ]  
+                    }
+                ]
+
+            } 
+        ]
+    }
+
+
+]

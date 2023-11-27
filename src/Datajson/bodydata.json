@@ -1,0 +1,306 @@
+[
+    {
+        "questions": "1",
+        "options":
+        [
+            {
+                "beforeselec":"a",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 분위기를 선택해주세요",
+                        "select":
+                        [
+                            {
+                                "type":"a",
+                                "name":"#정적인",
+                                "img":"aa.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#화려한",
+                                "img":"ab.png"
+                            }
+                        ]  
+                    }
+                ]
+            } ,
+            {
+                "beforeselec":"b", 
+                "quiz":[
+                    {
+                    "selectCriteria":"원하는 환경을 선택해주세요",
+                    "select": [
+                        {
+                            "type":"a",
+                            "name":"#바다",
+                            "img":"ba.jpg"
+                        },
+                        {
+                            "type":"b",
+                            "name":"#자연",
+                            "img":"bb.jpg"
+                        }
+                    ] 
+                } 
+                ]
+            } 
+        ]
+            
+    },
+
+    
+    {
+        "questions": "2",
+        "options": [
+            {
+                "beforeselec":"aa",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 색감을 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"aaa.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#흑백",
+                                "img":"aab.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            },
+            {
+                "beforeselec":"ab", 
+                "quiz":[
+                    { 
+                        "selectCriteria":"원하는 색감을 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"aba.png"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#흑백",
+                                "img":"abb.png"
+                            }
+                        ] 
+                    }
+                ]    
+            } ,
+            {
+                "beforeselec":"ba", 
+                "quiz":[
+                    {
+                        "selectCriteria":"혼자/커플 형태를 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#솔로",
+                                "img":"baa.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#커플",
+                                "img":"bab.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            },
+            {
+                "beforeselec":"bb",
+                "quiz":[
+                    {
+                        "selectCriteria":"혼자/커플 형태를 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#솔로",
+                                "img":"bba.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#커플",
+                                "img":"bbb.jpg"
+                            }
+                        ] 
+                    }
+                ] 
+            }
+        ]
+    },
+
+    {
+        "questions": "3",
+        "options": [
+            {
+                "beforeselec":"aaa",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 포즈를 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#서있는",
+                                "img":"aaaa.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#앉아있는",
+                                "img":"aaab.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },{
+                "beforeselec":"aab",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 포즈를 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#서있는",
+                                "img":"aaba.png"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#앉아있는",
+                                "img":"aabb.jpg"
+                            }
+                        ]  
+                    }
+                ]
+            },
+            {
+                "beforeselec":"aba",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 포즈를 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#서있는",
+                                "img":"abaa.png"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#앉아있는",
+                                "img":"abab.jpg"
+                            }
+                        ] 
+                    }
+                ] 
+            },
+            {
+                "beforeselec":"abb",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 포즈를 선택해주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#서있는",
+                                "img":"abba.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#앉아있는",
+                                "img":"abbb.png"
+                            }
+                        ]  
+                    }
+                ]
+
+            },            {
+                "beforeselec":"baa",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 색감을 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"baaa.png"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#흑백",
+                                "img":"baab.png"
+                            }
+                        ]  
+                    }
+                ]
+
+            },            {
+                "beforeselec":"bab",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 색감을 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"baba.png"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#흑백",
+                                "img":"babb.png"
+                            }
+                        ]  
+                    }
+                ]
+
+            },            {
+                "beforeselec":"bba",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 색감을 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"bbaa.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#흑백",
+                                "img":"bbab.jpg"
+                            }
+                        ]  
+                    }
+                ]
+
+            },            {
+                "beforeselec":"bbb",
+                "quiz":[
+                    {
+                        "selectCriteria":"원하는 색감을 선택해 주세요",
+                        "select": [
+                            {
+                                "type":"a",
+                                "name":"#컬러",
+                                "img":"bbba.jpg"
+                            },
+                            {
+                                "type":"b",
+                                "name":"#흑백",
+                                "img":"bbbb.jpg"
+                            }
+                        ]  
+                    }
+                ]
+
+            }
+            
+        ]
+    }
+
+
+]

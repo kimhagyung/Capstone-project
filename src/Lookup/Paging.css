@@ -1,0 +1,22 @@
+.paginations, .pages.paginations {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  } 
+  .paginations li, .pages.paginations li {
+    display: inline;
+    margin: 0 2px;
+    
+  }
+  
+  .paginations a, .pages.paginations a {
+    color: white;
+    text-decoration: none;
+    padding: 6px 12px;
+    
+    cursor: pointer;
+  } 
+
