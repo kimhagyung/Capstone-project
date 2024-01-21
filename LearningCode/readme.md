@@ -46,3 +46,6 @@ ReLU 활성화 함수를 사용하여 비선형성을 도입합니다.
 
 layers.Dense(num_classes, activation='softmax') 
 출력 레이어로, 클래스의 수에 해당하는 5개의 뉴런 수를 가집니다. softmax 활성화 함수 적용
+
+import tensorflowjs as tfjs
+- 모델을 TensorFlow.js Layers Model 형식으로 변환하기 위해 사용 
