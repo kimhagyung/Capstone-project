@@ -3,7 +3,11 @@ CNN은 이미지를 분석하기 위한 패턴을 찾는데 유용한 알고리�
 
 사용된 CNN 구조 설명 
 - 총 데이터 셋 : 4987장
-  
+-> 수집 출처 : SNS, naver, google 등의 웹사이트
+
+exif.py 
+- 이미지의 Exchangeable image file format (EXIF) 메타데이터를 제거하는 기능을 수행하여 이미지 전처리 작업 수행 
+
 - Conv2D(16, 3, padding='same', activation='relu', input_shape=(img_height, img_width, 3)):
 3x3 크기의 커널을 사용하여 16개의 필터로 이미지에 합성곱을 수행합니다.
 'same' 패딩을 사용하여 입력과 출력의 크기를 동일하게 유지합니다.
