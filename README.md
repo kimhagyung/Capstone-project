@@ -35,23 +35,48 @@
 
 **시스템 구상도**
 
-<img width="404" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/f21f0671-2744-496d-8c07-ea7611419615">
+<img width="404" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/f21f0671-2744-496d-8c07-ea7611419615">        
 
 **전체 기능**
 
-<img width="375" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/9ecf0e61-d124-4c38-9950-731847d34eed">          
+<img width="500" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/9ecf0e61-d124-4c38-9950-731847d34eed">          
+      
+<br> **시스템 개발 범위**      
 
-**시스템 개발 범위** <br>
-<img width="368" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/cffd8aa6-7cc8-41fe-a112-68ebb6ad3560">
-
-
-**클래스 다이어그램**
-
-<img width="418" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/05861882-2dd9-46f0-9230-729e962dbf24">
+<img width="500" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/cffd8aa6-7cc8-41fe-a112-68ebb6ad3560">      
 
 
-**최종화면**
+<br>  **클래스 다이어그램**
 
-<img width="321" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ac1d648e-aed4-4f16-bdc5-5cad65578d9a">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/05861882-2dd9-46f0-9230-729e962dbf24">
+
+<br> **시스템 개발 관리**
+
+<img width="900" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/9d3a592f-853b-4e70-a5a5-6336fb36afd8">
+
+
+<br> **최종화면**
+
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ac1d648e-aed4-4f16-bdc5-5cad65578d9a"> 
+ <br> <img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/c4d0f88b-1eee-49c1-bf2d-fe75d1bdd709">
+ <br> <img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/aae49795-e3b9-416d-842c-a1ae64c94b8a">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/29320d57-5566-4cef-839f-f704dfd79684">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/4d661816-df5f-4f08-b662-e51a7c659bd4">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/929d4671-3b6c-4324-b45a-650e1e497290">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/bfb94b95-4dd1-4a8b-af3b-513d9c4644c2">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/664f60ff-f295-41df-b44b-0f7657e367af">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/68aad8b0-e1e8-4aff-a5c3-fa5c1aa01280">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/9f1dbbd2-4993-41c6-a67e-3a0a868d8eec">
+<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/45d2cde8-3afb-4641-9ad4-3c6100fe50b6">
+
+
+
+
+
+
+
+
+
+
 
 
