@@ -1,4 +1,4 @@
-# CNN과 히스토그램을 사용한 이미지 분류 및 추천 시스템
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/77d8bd99-1aa9-4d00-aa8f-aec9c5ce1159)# CNN과 히스토그램을 사용한 이미지 분류 및 추천 시스템
 
 **시스템 개발의 배경 및 필요성**
 - 현행 비즈니스 상황
@@ -68,17 +68,18 @@
 
 <br> **최종화면**
 
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ac1d648e-aed4-4f16-bdc5-5cad65578d9a"> 
- <br> <img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/c4d0f88b-1eee-49c1-bf2d-fe75d1bdd709">
- <br> <img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/aae49795-e3b9-416d-842c-a1ae64c94b8a">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/29320d57-5566-4cef-839f-f704dfd79684">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/4d661816-df5f-4f08-b662-e51a7c659bd4">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/929d4671-3b6c-4324-b45a-650e1e497290">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/bfb94b95-4dd1-4a8b-af3b-513d9c4644c2">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/664f60ff-f295-41df-b44b-0f7657e367af">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/68aad8b0-e1e8-4aff-a5c3-fa5c1aa01280">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/9f1dbbd2-4993-41c6-a67e-3a0a868d8eec">
-<img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/45d2cde8-3afb-4641-9ad4-3c6100fe50b6">
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/caf7918f-4dd1-48e2-8486-73ffaf87a181)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/6e3ea5a4-3a0d-4c4c-831b-a5b2705675e6)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/01dce05e-6ab2-4014-9a7b-acdf11dd26bb)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/e3deb653-6332-4692-959d-9451a7c39a5d)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/1144a7fe-084c-43f0-92cf-cb02a9b6f6c1)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/77213e8c-3127-4252-ad40-bfc21cca6e77)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/04f1b35e-002d-4d72-81d6-f841192698df)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/4bf5d8db-f5a1-441f-90e0-1f0aab01dc1d)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/a2620a58-6c61-4dc4-9801-2fdba8cdef2b)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/9a3763a7-f613-4102-836f-33ca148f8ead)<hr>
+![image](https://github.com/kimhagyung/Capstone-project/assets/88253931/07f850c4-e04c-4af0-957a-2040c544cda7)<hr>
+
 
 
 
