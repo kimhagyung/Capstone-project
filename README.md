@@ -31,9 +31,9 @@
 - Docker 컨테이너 내에서 DB 테이블을 생성하고 관리
 - 네이버 로그인 API를 통한 사용자 인증 기능을 구현
 
-** 시스템 개발 환경 및 언어**
+**시스템 개발 환경 및 언어**
 
-  <img width="414" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ba2a27a5-3d75-4c51-aabd-9c8662b761ad">
+  <img width="500" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ba2a27a5-3d75-4c51-aabd-9c8662b761ad">
 
 **기술 설명 및 핵심 내용**
 - 딥러닝_ CNN(Convolutional Neural Network)
