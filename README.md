@@ -33,7 +33,7 @@
 - Docker 컨테이너 내에서 DB 테이블을 생성하고 관리 및 Docker Hub에 이미지 배포
 (https://hub.docker.com/repository/docker/rlagkrud/capstone/general)
 - 네이버 로그인 API를 통한 사용자 인증 기능을 구현
-- CNN 모델 학습
+- CNN 모델 학습 및 데이터셋 수집(다같이)
 - 완성된 모델 웹페이지 적용(TensorFlow.js 사용)
 - 이미지분류를 위한 히스토그램 적용 
 <br>
