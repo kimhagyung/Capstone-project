@@ -28,10 +28,14 @@
 <br>
 
 ### **역할**
-- 리액트를 활용하여 프론트엔드를 구성
+- 리액트를 활용하여 프론트엔드를 구성(하지만 주로 백엔드 위주)
 - Node.js를 이용하여 API 및 Ajax 통신을 구현
-- Docker 컨테이너 내에서 DB 테이블을 생성하고 관리
+- Docker 컨테이너 내에서 DB 테이블을 생성하고 관리 및 Docker Hub에 이미지 배포
+(https://hub.docker.com/repository/docker/rlagkrud/capstone/general)
 - 네이버 로그인 API를 통한 사용자 인증 기능을 구현
+- CNN 모델 학습
+- 완성된 모델 웹페이지 적용(TensorFlow.js 사용)
+- 이미지분류를 위한 히스토그램 적용 
 <br>
 
 ### **시스템 개발 환경 및 언어**
