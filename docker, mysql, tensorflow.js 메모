@@ -142,11 +142,13 @@ defult-character-set=utf8mb4
 7) 재시작 
 => systemctl restart mariadb
 ------------------------docker hub------------------------
-> docker login
 > docker images
 > docker tag rlagkrud/capstone:latest rlagkrud/capstone:latest2
 //docker tag 기존이미지이름:tag 바꿀이미지이름:tag 
-> docker push rlagkrud/capstone:latest2
+> docker login
+> docker push rlagkrud/capstone:latest2 //도커 허브에 업로드된거 확인하기 
+> docker pull rlagkrud/capstone:latest2
+> docker run -it --name rlagkrud -p 3306:3306 capstone:latest2 //실행
 ------------------------docker volume------------------------
 > docker login //도커 로그인
 >docker pull rlagkrud/capstone:tag2 //도커 이미지 다운로드
