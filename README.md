@@ -23,6 +23,10 @@
   2. 카테고리별로 고객에게 정확한 정보를 제공한다.
 <br>
 
+### **시스템 개발 환경 및 언어**
+
+  <img width="1200" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ba2a27a5-3d75-4c51-aabd-9c8662b761ad">
+ 
 ### **프로젝트 선택 이유** 
 - 웹에서의 서버와 클라이언트의 동작 과정을 배우고 인공지능을 사용해 웹 사이트에 적용 해보고 싶어 선택
 <br>
@@ -38,10 +42,7 @@
 - 이미지분류를 위한 히스토그램 적용 
 <br>
 
-### **시스템 개발 환경 및 언어**
 
-  <img width="1200" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ba2a27a5-3d75-4c51-aabd-9c8662b761ad">
- 
 
 ### **기술 설명 및 핵심 내용**
 
