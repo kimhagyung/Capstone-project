@@ -40,7 +40,7 @@
 
 ### **시스템 개발 환경 및 언어**
 
-  <img width="700" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ba2a27a5-3d75-4c51-aabd-9c8662b761ad">
+  <img width="1200" alt="image" src="https://github.com/kimhagyung/Capstone-project/assets/88253931/ba2a27a5-3d75-4c51-aabd-9c8662b761ad">
  
 
 ### **기술 설명 및 핵심 내용**
