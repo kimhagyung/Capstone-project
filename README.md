@@ -32,7 +32,7 @@
 <br>
 
 ### **역할**
-- 리액트를 활용하여 프론트엔드를 구성(하지만 주로 백엔드 위주)
+- 리액트를 활용하여 프론트엔드를 구성(하지만 주로 백엔드 위주로 맡았음)
 - Node.js를 이용하여 API 및 Ajax 통신을 구현
 - Docker 컨테이너 내에서 DB 테이블을 생성하고 관리 및 Docker Hub에 이미지 배포
 (https://hub.docker.com/repository/docker/rlagkrud/capstone/general)
